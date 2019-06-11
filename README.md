@@ -13,6 +13,8 @@ can be attached to the entrance bars of mating nucs:
 Most stuff is fully customizable in the included OpenSCAD source code. Feel
 free to adapt as required.
 
+Published on thingiverse: https://www.thingiverse.com/thing:3684404
+
 ## Images
 
 See a queen excluder in action in a Miniplus mating nuc: [images/](images/)
