@@ -3,8 +3,9 @@
 This project contains queen and drone excluders for beekeepers. The excluders
 can be attached to the entrance bars of mating nucs:
 
-* queen-excluder.stl: Avoids virgin bees from leaving the mating nucs (before
-  transporting them to a mating station or before artificial insemination)
+* queen-excluder.stl: Avoids virgin bee queens from leaving the mating nucs
+  (before transporting them to a mating station or before artificial
+  insemination)
 
 * drone-excluder.stl: Ensures drones cannot enter or leave the mating nucs,
   thus avoiding a mating station to be contaminated with foreign drones or
